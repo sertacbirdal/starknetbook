@@ -3,7 +3,6 @@
 This repository contains the source for [The Starknet Book](book.starknet.io).
 
 ## Contribution
-
 Every contribution, regardless of its size, plays a pivotal role in refining this work. Together, we advance the Starknet narrative.
 
 - **General Guidelines**:
